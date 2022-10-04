@@ -19,41 +19,31 @@ Education
 Work experience
 ======
 
-* 2020/03- Present: Researcher, University of Gothenburg
-  * Responsibilities: Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
-
-  * I am trying to develop an Artificial-Intelligence (AI) based treatment guiding system for skin cancer patients by utilizing their the genomic and clinical data. Details of my projects are given below
-
-  *	Project 1: Diverse range mutation and epi-genomics data of the cancer cells involved in cancer progression. So, the focus of my work is on data normalization techniques to Integrate multimodal data and to develop of artificial intelligence (AI) based clinical decision-making system that can be used for precise treatment of melanoma patients. 
-
-  * Project 2: This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
-
-   * Skills: Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
+* **2020/03- Present: Researcher, University of Gothenburg**
+  * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
+  * **Project 1:** Diverse range mutation and epi-genomics data of the cancer cells involved in cancer progression. So, the focus of my work is on data normalization techniques to Integrate multimodal data and to develop of artificial intelligence (AI) based clinical decision-making system that can be used for precise treatment of melanoma patients. 
+  * **Project 2:** This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
+   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 	
-
-* 2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA
+* **2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA**
+  * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
+  * **Project 1:** New DNA sequencing technologies, such as single-cell RNA-seq, produces very high-dimensional (~30,000 x 1,000,000) datasets, visualizing this data is challenging but useful to understand many biological processes. So, I have developed an interactive tool named “Stereo3D” that reduces the dimension of data to 3D and produces interactive stereo images for better visualization. Detailed information about this work can be found in the research publication section below.
+  * **Project 2:**  I developed an software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below. A detailed description of the work can be found in the publication section below.
+  * **Skills:** Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
   
-  * Responsibilities: Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
-
-  * Project 1: New DNA sequencing technologies, such as single-cell RNA-seq, produces very high-dimensional (~30,000 x 1,000,000) datasets, visualizing this data is challenging but useful to understand many biological processes. So, I have developed an interactive tool named “Stereo3D” that reduces the dimension of data to 3D and produces interactive stereo images for better visualization. Detailed information about this work can be found in the research publication section below.
-
-  * Project 2:  I developed an software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below. A detailed description of the work can be found in the publication section below.
-
-  * Skills: Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
+* **2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA**
+  * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
+  * **Research project:** I used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. (This work has been published in a well renowned scientific journal)
+  * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
   
-* 2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA
 
-  * Responsibilities: Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
+* **2018/03-2019/11: Senior Research Scientist, Noida, India**
+  * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
+  * **Project 1:** Contributed to the development of logistic regression based Credit risk model for credit risk agency
+  * **Project 2:** Contributed to the development of an Intelligent system for customer sentiment analysis based on reviews using deep learning techniques. (Detailed Project description is given at the [link](https://valiancesolutions.com/whitepapers/sentiment-analysis/) )
+  * **Project 3:** Feasibility study of deep learning-based optical character recognition technique to read hand-filled forms.
+  * **Skills:** Deep Learning · Machine Learning · Python · R
 
-  * Research project: I used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. (This work has been published in a well renowned scientific journal)
-
-* 2018/03-2019/11: Senior Reserch Scientist, Noida, India
-
- * Responsibilities: Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
-
- * Project 1: Contributed to the development of logistic regression based Credit risk model for credit risk agency
- * Project 2: Contributed to the development of an Intelligent system for customer sentiment analysis based on reviews using deep learning techniques. (Detailed Project description is given at the [link](https://valiancesolutions.com/whitepapers/sentiment-analysis/) )
- * Project 3: Feasibility study of deep learning-based optical character recognition technique to read hand-filled forms.
 
   
 Skills
