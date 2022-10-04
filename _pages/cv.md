@@ -37,7 +37,7 @@ Work experience
   * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
   
 
-* **2018/03-2019/11: Senior Research Scientist, Noida, India**
+* **2017/02-2017/06: Senior Research Scientist, Noida, India**
   * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
   * **Project 1:** Contributed to the development of logistic regression based Credit risk model for credit risk agency
   * **Project 2:** Contributed to the development of an Intelligent system for customer sentiment analysis based on reviews using deep learning techniques. (Detailed Project description is given at the [link](https://valiancesolutions.com/whitepapers/sentiment-analysis/) )
