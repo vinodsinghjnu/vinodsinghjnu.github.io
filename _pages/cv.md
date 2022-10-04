@@ -56,10 +56,10 @@ Publications
 
 Online Courses
 ======
- * Machine Learning (2013) : Coursera [Certificate]()
- * Computational Molecular Evolution (2013) : Coursera [Certificate]()
- * Introduction to Systems Biology (2014) : Coursera [Certificate]()
- * Linear Integer Programming (2014) : Coursera [Certificate]()
+ * Machine Learning (2013) : Coursera [Certificate]('/files/Coursera_introduction_to_machine learning.pdf')
+ * Computational Molecular Evolution (2013) : Coursera [Certificate]('/files/Coursera computational molecular evolution 2014.pdf')
+ * Linear Integer Programming (2014) : Coursera [Certificate]('/files/Coursera linear integer programming 2014.pdf')
+ * Introduction to Systems Biology (2014) : Coursera [Certificate]('/files/Coursera Introuction to systems Biology 2014.pdf')
 
 Awards
 ======
