@@ -61,9 +61,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Google Scholar](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
   
 Talks
 ======
