@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2010-2017 Ph.D in Computational Biology and Bioinformatics, Jawaharlal Nehru University.
+* 2008-2010 M. Tech. Computational and Systems Bilogy, Jawaharlal Nehru University.
+* 2003-2007 B. Tech.  in Biotechnology, Kurukshetra University. 
+ 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+
+* 2020/03- Present: Researcher, University of Gothenburg
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* 2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  *
+* 2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
