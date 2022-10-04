@@ -1,4 +1,3 @@
-
 ---
 permalink: /publications/
 title: "Research"
