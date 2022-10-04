@@ -1,28 +1,29 @@
+
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Research"
 ---
 
+[Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
 
-You can also find my articles my [Google Scholar profile](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
+<h2 id="active">
+Active Research
+</h2>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Note: \* Represents equal authorship
 
-* **Working Papers:**
+### Working Papers:
 
-  * Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, "TERT promoter mutations induce secondary UV hotspots at ETS binding sites", (Under Writing) 
+   1. Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, "TERT promoter mutations induce secondary UV hotspots at ETS binding sites", (Under Writing) 
 
-   * Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, "Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins",  *Nature Communications*, (Under Revision)
+   1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, "Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins",  *Nature Communications*, (Under Revision)
 
-* **Publications:**
+<h2 id="pubs">
+Publications
+</h2>
+
+### Peer-Reviewed Publications:
 
   1. **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, “HSMotifDiscover: Identi cation of motifs in sequences composed of non-single-letter elements", Bioinformatics, p:4036-4038,  v:38-16, 2022 , Oxford University Press
 
@@ -41,11 +42,11 @@ Note: \* Represents equal authorship
   1.	**Vinod Kumar Singh** and Annangarachari Krishnamachari, (2016) "Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome", Genomics Data, p:130-136 , v:9, 2016, Elsevier.
 
 
-* **Conference Paper:**
+### Conference Paper:
 
   * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) “Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”. In: Tanveer M., Pachori R. (eds) Machine Intelligence and Signal Analysis. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore
 
-* **Book Chapters:**
+### Book Chapters:
 
   * Vinod Kumar Singh, "Emerging role of Artificial intelligence in precision oncology",  In: Gupta A. K., (eds) Computational Methods and Applications in Healthcare Domain, 2022, *CRC Press, Taylor \& Francis* (Accepted, In Press).
 
