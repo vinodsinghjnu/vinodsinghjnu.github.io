@@ -49,32 +49,21 @@ Work experience
   * **Skills:** Deep Learning · Machine Learning · Python · R
 
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
 * [Google Scholar](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
-  
-Talks
+
+Online Courses
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * Linear Integer Programming (2014) : Coursera
+ * Machine Learning (2013) : Coursera
+ * Computational Molecular Evolution (2013) : Coursera
+
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * Senior Research Fellowship (2014-2016) : Transdisciplinary Research, Council of Scientific and Industrial Research (CSIR), India
+ * Graduate Aptitude Test in Engineering 2011: Biotechnology, Indian Institute of Technology Madras (IIT Madras), India
+
+
