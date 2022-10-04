@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Skills
+======
+ ·Data Science · NGS data analysis · Computational-Genomics · Machine Learning · Statistical Lerning · R · Python · High Performance Computing (HPC) · LATEX 
+
 Education
 ======
 * Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University, New Delhi, India, 2010-2017
