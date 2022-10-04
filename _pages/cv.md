@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2010-2017 Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University.
-* 2008-2010 M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University.
-* 2003-2007 B. Tech. (Biotechnology), Kurukshetra University. 
+* Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University, 2010-2017
+* M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University, 2008-2010
+* B. Tech. (Biotechnology), Kurukshetra University, 2003-2007
  
 
 Work experience
