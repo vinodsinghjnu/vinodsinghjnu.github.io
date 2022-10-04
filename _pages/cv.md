@@ -37,15 +37,15 @@ Work experience
 
   * Project 1: New DNA sequencing technologies, such as single-cell RNA-seq, produces very high-dimensional (~30,000 x 1,000,000) datasets, visualizing this data is challenging but useful to understand many biological processes. So, I have developed an interactive tool named “Stereo3D” that reduces the dimension of data to 3D and produces interactive stereo images for better visualization. Detailed information about this work can be found in the research publication section below.
 
- * Project 2:  I developed an software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below. A detailed description of the work can be found in the publication section below.
+  * Project 2:  I developed an software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below. A detailed description of the work can be found in the publication section below.
 
- * Skills: Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
+  * Skills: Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
   
 * 2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
+  * Responsibilities: Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
+
+  * Research project: I used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. (This work has been published in a well renowned scientific journal)
 
   
 Skills
