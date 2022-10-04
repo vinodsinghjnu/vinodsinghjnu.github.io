@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University, 2010-2017
-* M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University, 2008-2010
-* B. Tech. (Biotechnology), Kurukshetra University, 2003-2007
+* Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University, New Delhi, India, 2010-2017
+* M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
+* B. Tech. (Biotechnology), Kurukshetra University, Kurukshetra, India, 2003-2007
  
 
 Work experience
@@ -46,6 +46,14 @@ Work experience
   * Responsibilities: Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
 
   * Research project: I used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. (This work has been published in a well renowned scientific journal)
+
+* 2018/03-2019/11: Senior Reserch Scientist, Noida, India
+
+ * Responsibilities: Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
+
+ * Project 1: Contributed to the development of logistic regression based Credit risk model for credit risk agency
+ * Project 2: Contributed to the development of an Intelligent system for customer sentiment analysis based on reviews using deep learning techniques. (Detailed Project description is given at the [link](https://valiancesolutions.com/whitepapers/sentiment-analysis/) )
+ * Project 3: Feasibility study of deep learning-based optical character recognition technique to read hand-filled forms.
 
   
 Skills
