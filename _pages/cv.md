@@ -56,11 +56,11 @@ Publications
 
 Online Courses
 ======
- * Linear Integer Programming (2014) : Coursera
- * Machine Learning (2013) : Coursera
- * Computational Molecular Evolution (2013) : Coursera
+ * Machine Learning (2013) : Coursera [Certificate]()
+ * Computational Molecular Evolution (2013) : Coursera [Certificate]()
+ * Introduction to Systems Biology (2014) : Coursera [Certificate]()
+ * Linear Integer Programming (2014) : Coursera [Certificate]()
 
-  
 Awards
 ======
  * Senior Research Fellowship (2014-2016) : Transdisciplinary Research, Council of Scientific and Industrial Research (CSIR), India
