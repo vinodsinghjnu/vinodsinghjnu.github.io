@@ -9,9 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+[Skills](#sk) &nbsp; &nbsp; - &nbsp; &nbsp; [Education](#ed) &nbsp; &nbsp; - &nbsp; &nbsp; [Work experience](#wrkexp) &nbsp; &nbsp; - &nbsp; &nbsp; [Online Courses](#onlinecources) &nbsp; &nbsp; - &nbsp; &nbsp; [Awards](#aw) &nbsp; &nbsp;
+
+
+<h2 id="sk">
+</h2>
+
 Skills
 ======
  ·Data Science · NGS data analysis · Computational-Genomics · Machine Learning · Statistical Lerning · R · Python · High Performance Computing (HPC) · LATEX 
+ 
+<h2 id="ed">
+</h2>
 
 Education
 ======
@@ -19,6 +28,8 @@ Education
 * M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
 * B. Tech. (Biotechnology), Kurukshetra University, Kurukshetra, India, 2003-2007
  
+<h2 id="wrkexp">
+</h2>
 
 Work experience
 ======
@@ -54,12 +65,18 @@ Publications
 ======
 * [Google Scholar](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
 
+<h2 id="onlinecources">
+</h2>
+
 Online Courses
 ======
  * Machine Learning (2013) : Coursera [Certificate](/files/Coursera_introduction_to_machine_learning.pdf)
  * Linear Integer Programming (2014) : Coursera [Certificate](/files/Coursera_linear_integer_programming_2014.pdf)
  * Computational Molecular Evolution (2014) : Coursera [Certificate](/files/Coursera_computational_molecular_evolution_2014.pdf)
  * Introduction to Systems Biology (2014) : Coursera [Certificate](/files/Coursera_Introuction_to_systems_Biology_2014.pdf)
+
+<h2 id="aw">
+</h2>
 
 Awards
 ======
