@@ -1,8 +1,11 @@
 ---
-title: "How to use non-sparse big matrices as input to Machine Learning algorithms?"
-output:
-  html_document:
-    keep_md: true
+title: 'How to use non-sparse big matrices as input to Machine Learning algorithms?'
+date: 2022-08-14
+permalink: /posts/2022/08/blog-post: How to use non-sparse big matrices as input to Machine Learning algorithms?/
+tags:
+  - HDF5
+  - Big Data
+  - Machine Learning
 ---
 
 It is always challenging to use really big matrices with (dimensions in hundreds of thousands) as input to train the machine learning algorithm. If matrices are sparse then with the help of some  packages such as [Matrix](https://cran.r-project.org/web/packages/Matrix/index.html),data can be loaded in the RAM and normal operations can be done easily because these packages store only non-zero values along with indices.  In the today's era of technology a huge amount of data is getting stored every day in almost every field of business and research. This data is dense and can not be completely loaded in computer RAMs for normal matrix operations. However, this data can give useful insights to understand the many business/ research problems such as consumer preferences and recommendations, improving existing or developing new technologies. 
