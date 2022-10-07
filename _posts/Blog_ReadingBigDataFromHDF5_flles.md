@@ -1,0 +1,101 @@
+---
+title: "How to use non-sparse big matrices as input to Machine Learning algorithms?"
+output:
+  html_document:
+    keep_md: true
+---
+
+It is always challenging to use really big matrices with (dimensions in hundreds of thousands) as input to train the machine learning algorithm. If matrices are sparse then with the help of some  packages such as [Matrix](https://cran.r-project.org/web/packages/Matrix/index.html),data can be loaded in the RAM and normal operations can be done easily because these packages store only non-zero values along with indices.  In the today's era of technology a huge amount of data is getting stored every day in almost every field of business and research. This data is dense and can not be completely loaded in computer RAMs for normal matrix operations. However, this data can give useful insights to understand the many business/ research problems such as consumer preferences and recommendations, improving existing or developing new technologies. 
+
+Most of the big data is stored in [Hierarchical Data (HDF5 or .h5) format](https://www.neonscience.org/resources/learning-hub/tutorials/about-hdf5) that supports large, complex, heterogeneous data in a "file directory" like structure that allows you to organize data within the file in many different structured ways. So, in this blog I will discuss about how to use the data from these large matrices stored on hard disk into the R environment with an discussion over its usage for training machine learning algorithms.
+
+For the discussion here, I am taking `train_multi_inputs.h5` dataset from an open problem [Multimodal Single-Cell Integration](https://www.kaggle.com/competitions/open-problems-multimodal/data?select=metadata.csv) given the Kaggle plateform.  To read HDFr (.h5) files we need to install a [rhdf5 library](https://www.bioconductor.org/packages/release/bioc/html/rhdf5.html). The `h5ls` command lists the all data arrays present in file stored at hard disk. This data stores the value of a signal at a specific set of 228,942 genomic locations in a set of 105,942 cells.
+
+## Find out, What type of data structures we have in the HDF5?
+
+
+```r
+library("rhdf5")
+hdfFile='./data/train_multi_inputs.h5'
+
+h5ls(hdfFile)
+```
+
+```
+##                 group               name       otype dclass             dim
+## 0                   / train_multi_inputs   H5I_GROUP                       
+## 1 /train_multi_inputs              axis0 H5I_DATASET STRING          228942
+## 2 /train_multi_inputs              axis1 H5I_DATASET STRING          105942
+## 3 /train_multi_inputs       block0_items H5I_DATASET STRING          228942
+## 4 /train_multi_inputs      block0_values H5I_DATASET  FLOAT 228942 x 105942
+```
+From the name column it can be seen that HDF5 file have four datasets. The dataset `block0_values` is our required data matrix, `axis0` stores rownames (genomic Location of the signal) of the matrix, and `axis1` stores the column names (cells-ID) of the matrix.
+
+
+This datasets have 228,942  rows and 105,942 columns which have (228,942* 105,942) 24254.57 mm entries. If we do calculations for 8 bytes per entry (float values) it will take up `(8*24254573364)/ (1000000000)= 194.0366 GB` RAM. Problem don,t stop here, we will also need more RAM for further processing on this much big data. Hence lets discuss how we can use this data for the machine learning applications.
+
+## Load the data to variables
+
+
+```r
+GenomicLocations_RowNames <- h5read(file=hdfFile, name='/train_multi_inputs/axis0') # Load row names (genomic locations) to a variable
+head(GenomicLocations_RowNames)
+```
+
+```
+## [1] "GL000194.1:114519-115365" "GL000194.1:55758-56597"  
+## [3] "GL000194.1:58217-58957"   "GL000194.1:59535-60431"  
+## [5] "GL000195.1:119766-120427" "GL000195.1:120736-121603"
+```
+
+```r
+CellsID_ColNames <- h5read(file=hdfFile, name='/train_multi_inputs/axis1') # Load column names (Cells-Ids) to a variable
+head(CellsID_ColNames) 
+```
+
+```
+## [1] "56390cf1b95e" "fc0c60183c33" "9b4a87e22ad0" "81cccad8cd81" "15cb3d85c232"
+## [6] "a7791bcf1152"
+```
+
+```r
+GenomicLocations_clellsID.matrix <- h5read(file=hdfFile, name='/train_multi_inputs/block0_values') # Load matrix names to a variable,  can't it be loaded ?
+```
+
+```
+## Error: cannot allocate vector of size 180.7 Gb
+```
+
+```
+## Error: Error in h5checktype(). H5Identifier not valid.
+```
+
+
+## Whats is the solution?
+
+To use a dataset in a typical machine learning algorithm we need to features and samples.  Suppose In this data genomic locations along rows are our `features` and cellsID are our `sample names`.  If we want to label our cells to a class then we will need to train a machine learning model on our data. Our data has around 228,942 features which cant be loaded together at a time for training purpose due to RAM limitations. Even if we somehow are able to load the data in the high RAM and High performance computers, then the number features in this data set is too high which may model lead over-fitting (bad predictions on the unseen examples). So, it is always wise idea to reduce the complexity of the model by eliminating the unnecessary/ non contributing features from the training dataset. The dimentnality reduction techniques such as PCA, LDA, NMF may not work here because they need to load all the features in the RAM which is not possible in this data. However, There are many approaches that removes the unnecessary features without loading all the features to the RAM. The simplest strategy in this case can be to eliminate the features that do not have any variability between the labeled classes.(If features are discrete then as [Ginni-index](https://blog.quantinsti.com/gini-index/) can be used to measure variability). To know the importance of features we will need to fetch them one by one or in a small subset. Here, the magic of HDF5 files comes into play which let us to fetch a particular subset of data from the large data saved on hard disk. Using `h5read` function we can extract a subset of data for the desired rows or columns or both.
+
+
+```r
+test_data=h5read(file=hdfFile, name='/train_multi_inputs/block0_values', index = list(1:10000, NULL )) # fetch data of first 10000 rows i.e features or genomic location
+dim(test_data)
+```
+
+```
+## [1]  10000 105942
+```
+
+```r
+test_data_2=h5read(file=hdfFile, name='/train_multi_inputs/block0_values', index = list(1:10, 1:10)) ## fetch data of first 10 rows and first 10 columns
+dim(test_data_2)
+```
+
+```
+## [1] 10 10
+```
+
+Information about the row names and colnames of the data can be obtained from the `GenomicLocations_RowNames` and `CellsID_ColNames` variables we saved in the previous chunk. 
+
+
+
+
