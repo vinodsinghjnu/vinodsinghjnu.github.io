@@ -2,6 +2,10 @@
 title: 'How to use non-sparse big matrices as input to Machine Learning algorithms?'
 date: 2022-08-14
 permalink: /posts/2022/08/blog-post-real1/
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 tags:
   - HDF5
   - Big Data
