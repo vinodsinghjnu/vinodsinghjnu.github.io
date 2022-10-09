@@ -33,7 +33,7 @@ Education
 
 Work experience
 ======
-* **2020/03- Present: Researcher, University of Gothenburg**
+* **2020/03- Present: Researcher, University of Gothenburg, Gothenburg, Sweden**
 
 	<details>
   		<summary>Expand</summary>
