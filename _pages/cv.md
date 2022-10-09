@@ -41,7 +41,7 @@ Work experience
   * **Project 2:** This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 
-  </li></blockquote></details>
+  </blockquote></details></li>
 
 * **2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA**
   <details><summary>Expand</summary><blockquote>
