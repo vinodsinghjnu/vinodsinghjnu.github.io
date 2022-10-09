@@ -63,7 +63,7 @@ Work experience
   </blockquote></details>
 
 * **2017/02-2017/06: Senior Research Scientist, Noida, India**
-  <details><summary>Expand<summary><blockquote>
+  <details><summary>Expand</summary><blockquote>
 
   * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
   * **Project 1:** Contributed to the development of logistic regression based Credit risk model for credit risk agency
