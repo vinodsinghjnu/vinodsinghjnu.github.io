@@ -44,7 +44,7 @@ Work experience
   * **Project 2:** This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
    * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 	
-</details>
+	</details>
 	
 * **2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA**
 
@@ -56,7 +56,7 @@ Work experience
   * **Project 2:**  Developed a software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below.([Publication](https://academic.oup.com/bioinformatics/article/38/16/4036/6623407?searchresult=1), [HSMotifDiscover](https://github.com/bioinfoDZ/HSMotifDiscover), [HSMotifDiscoverApp](https://hsmotifdiscover.shinyapps.io/HSMotifDiscover_ShinyApp/))
   * **Skills:** Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
 
-</details>
+	</details>
   
 * **2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA**
 
@@ -67,7 +67,7 @@ Work experience
   * **Research project:** Used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. ([Publication](https://www.nature.com/articles/s42003-020-01119-5), [MutSigTools](https://github.com/sjdlabgroup/MutSigTools))
   * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
   
-</details>
+	</details>
 
 * **2017/02-2017/06: Senior Research Scientist, Noida, India**
 
@@ -80,7 +80,7 @@ Work experience
   * **Project 3:** Feasibility study of deep learning-based optical character recognition technique to read hand-filled forms.
   * **Skills:** Deep Learning · Machine Learning · Python · R
 
-</details>
+	</details>
 
 Publications
 ======
