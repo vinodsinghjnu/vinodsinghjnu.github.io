@@ -34,7 +34,7 @@ Education
 Work experience
 ======
 * **2020/03- Present: Researcher, University of Gothenburg, Gothenburg, Sweden**
-  <details></br>
+  <details>
 
   * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
   * **Project 1:** Diverse range mutation and epi-genomics data of the cancer cells involved in cancer progression. So, the focus of my work is on data normalization techniques to Integrate multimodal data and to develop of artificial intelligence (AI) based clinical decision-making system that can be used for precise treatment of melanoma patients. 
