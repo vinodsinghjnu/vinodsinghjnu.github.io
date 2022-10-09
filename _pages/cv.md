@@ -42,9 +42,9 @@ Work experience
   * **Project 1:** Diverse range mutation and epi-genomics data of the cancer cells involved in cancer progression. So, the focus of my work is on data normalization techniques to Integrate multimodal data and to develop of artificial intelligence (AI) based clinical decision-making system that can be used for precise treatment of melanoma patients. 
   * **Project 2:** This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
-	
+
 	</details>
-	
+
 * **2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA**
 
   <details>
@@ -54,8 +54,9 @@ Work experience
   * **Project 1:** New DNA sequencing technologies, such as single-cell RNA-seq, produces very high-dimensional (~30,000 x 1,000,000) datasets, visualizing this data is challenging but useful to understand many biological processes. So, I have developed an interactive tool named “Stereo3D” that reduces the dimension of data to 3D and produces interactive stereo images for better visualization. ([Publication](https://academic.oup.com/bioinformatics/article/36/14/4189/5838181), [Stereo3D](https://github.com/bioinfoDZ/Stereo3D))
   * **Project 2:**  Developed a software tool named "HSMotifDiscover" and Its app, to discover patterns in specific type of biological sequences. This tool uses specialized version of the Gibbs-sampling optimization algorithm to detect the conserved patterns in the sequences. A detailed description of the work can be found in the publication section below.([Publication](https://academic.oup.com/bioinformatics/article/38/16/4036/6623407?searchresult=1), [HSMotifDiscover](https://github.com/bioinfoDZ/HSMotifDiscover), [HSMotifDiscoverApp](https://hsmotifdiscover.shinyapps.io/HSMotifDiscover_ShinyApp/))
   * **Skills:** Statistical Learning · Software dovelopemnt · Gibbs-Sampling optimisation · Rotational Matrices · R
+
 	</details>
-  
+
 * **2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA**
 	<details>
   	 <summary>Expand</summary>
