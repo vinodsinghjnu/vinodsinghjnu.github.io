@@ -64,7 +64,7 @@ Work experience
 
   </blockquote></details>
 
-* **2017/02-2017/06: Senior Research Scientist, Noida, India**
+* **2017/02-2017/06: Senior Research Scientist, Valiance Solutions Pvt. Ltd, Noida, India**
   <details><blockquote>
 
   * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
