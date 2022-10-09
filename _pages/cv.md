@@ -31,6 +31,8 @@ Education
 <h2 id="wrkexp">
 </h2>
 
+<!---  <details><summary>Expand</summary><blockquote> # will work if we make "parse_block_html: false" in yaml file  -->
+
 Work experience
 ======
 * **2020/03- Present: Researcher, University of Gothenburg, Gothenburg, Sweden**
@@ -44,7 +46,7 @@ Work experience
   </blockquote></details>
 
 * **2019/11-2020/03: Post-Doctoral researcher, Albert Einstein College of Medicine, New York, USA**
-  <details><summary>Expand</summary><blockquote>
+  <details><blockquote>
 
   * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
   * **Project 1:** New DNA sequencing technologies, such as single-cell RNA-seq, produces very high-dimensional (~30,000 x 1,000,000) datasets, visualizing this data is challenging but useful to understand many biological processes. So, I have developed an interactive tool named “Stereo3D” that reduces the dimension of data to 3D and produces interactive stereo images for better visualization. ([Publication](https://academic.oup.com/bioinformatics/article/36/14/4189/5838181), [Stereo3D](https://github.com/bioinfoDZ/Stereo3D))
@@ -54,7 +56,7 @@ Work experience
   </blockquote></details>
 
 * **2018/03-2019/11: Post-Doctoral researcher, Rutgers cancer Institute of New Jersey, New Jersey, USA**
-  <details><summary>Expand</summary><blockquote>
+  <details><blockquote>
 
   * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
   * **Research project:** Used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. ([Publication](https://www.nature.com/articles/s42003-020-01119-5), [MutSigTools](https://github.com/sjdlabgroup/MutSigTools))
@@ -63,7 +65,7 @@ Work experience
   </blockquote></details>
 
 * **2017/02-2017/06: Senior Research Scientist, Noida, India**
-  <details><summary>Expand</summary><blockquote>
+  <details><blockquote>
 
   * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
   * **Project 1:** Contributed to the development of logistic regression based Credit risk model for credit risk agency
