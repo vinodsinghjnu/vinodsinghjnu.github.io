@@ -59,17 +59,18 @@ Work experience
   * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to scientific community.
   * **Research project:** Used Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns associated with the defective replication process in the cancer genome. This information is useful in detecting cancers related to defective replication processes for the precise treatment of cancer patients. An R-package named MutSigTools was also developed to find mutational patterns related to other mutational sources. ([Publication](https://www.nature.com/articles/s42003-020-01119-5), [MutSigTools](https://github.com/sjdlabgroup/MutSigTools))
   * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
- 
+
   </blockquote></details>
 
 * **2017/02-2017/06: Senior Research Scientist, Noida, India**
-  <details><summary>Expand<summary>
+  <details><summary>Expand<summary><blockquote>
 
   * **Responsibilities:** Guided a team of data scientists in implementing Machine learning algorithms and troubleshooted the dataset-specific problems.
   * **Project 1:** Contributed to the development of logistic regression based Credit risk model for credit risk agency
   * **Project 2:** Contributed to the development of an Intelligent system for customer sentiment analysis based on reviews using deep learning techniques. (Detailed Project description is given at the [link](https://valiancesolutions.com/whitepapers/sentiment-analysis/) )
   * **Project 3:** Feasibility study of deep learning-based optical character recognition technique to read hand-filled forms.
   * **Skills:** Deep Learning · Machine Learning · Python · R
+
   </blockquote></details>
 
 Publications
