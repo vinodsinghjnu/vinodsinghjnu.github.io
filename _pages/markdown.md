@@ -10,7 +10,7 @@ redirect_from:
 ## A typical framework of the my research over the years
 
 
-<img src="../images/AI_framework.svg" alt="AI_framework" style="height: 400px; width:600px;"/> 
+<img src="../images/AI_framework.svg" alt="AI_framework" style="height: 500px; width:700px;"/> 
 
 
 ## Locations of key files/directories
