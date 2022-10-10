@@ -11,9 +11,9 @@ redirect_from:
 Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/research/erik-larsson) at the University of Gothenburg. I am an interdisciplinary researcher with expertise in computational science. Currently, I use data science techniques to study cancer patients’ genomic profiles and develop artificial intelligence-based solutions for cancer patients’ specific clinical decision-making.
 
 
-I do Bioinformatics :confused:	:innocent:  
+What I do?  
 ======
-<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 500px; width:500px;"/>
+<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/>
 
 <!--![plot](../images/BioinformaticsVenn.svg)-->
 
