@@ -55,5 +55,5 @@ Book Chapters
 
 ### Book Chapters:
 
-  * Vinod Kumar Singh, "Emerging role of Artificial intelligence in precision oncology",  In: Gupta A. K., (eds) Computational Methods and Applications in Healthcare Domain, 2022, *CRC Press, Taylor \& Francis* (Accepted, In Press).
+  * **Vinod Kumar Singh**, "Emerging role of Artificial intelligence in precision oncology",  In: Gupta A. K., (eds) Computational Methods and Applications in Healthcare Domain, 2022, *CRC Press, Taylor \& Francis* (Accepted, In Press).
 
