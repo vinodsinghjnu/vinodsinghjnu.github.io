@@ -7,12 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## My research over the years
+## A typical framework of the my research over the years
 
 
 <img src="../images/AI_framework.svg" alt="AI_framework" style="height: 400px; width:600px;"/> 
 
-<iframe width="100%" height="800" src="../images/AI_Framework.pdf">
 
 ## Locations of key files/directories
 
