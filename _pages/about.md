@@ -16,7 +16,7 @@ What I do?
 
 Bioinformatics            |  Research Word Cloud
 :-------------------------:|:-------------------------:
-<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 360px; width:360px;"/>  |  <img src="../images/VinodWordCloud2.png" alt="What is Bioinformatics?" style="height: 360px; width:360px;"/>
+<img src="../images/OnlyBioinforVenn2_drawio.svg" alt="What is Bioinformatics?" style="height: 360px; width:360px;"/>  |  <img src="../images/VinodWordCloud2.png" alt="What is Bioinformatics?" style="height: 360px; width:360px;"/>
 
 <!-- <img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/> -->
 
