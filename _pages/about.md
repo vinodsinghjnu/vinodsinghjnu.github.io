@@ -25,6 +25,6 @@ New Updates
 
 Contact Information
 ======
-* Email: vinod.singh@gu.se
+* Email: vinod.acear@gmail.com, vinod.singh@gu.se
 * Institute of Biomedicine, University of Gothenburg.
 
