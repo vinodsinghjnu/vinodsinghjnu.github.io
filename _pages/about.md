@@ -17,11 +17,11 @@ What I do?
 
 <!--![plot](../images/BioinformaticsVenn.svg)-->
 
-
+<!--!
 New Updates
 ======
 1. Submitted a new research article to Nature Communications.
-1. Upadating my CV.
+1. Upadating my CV.-->
 
 Contact Information
 ======
