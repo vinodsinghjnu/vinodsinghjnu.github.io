@@ -13,7 +13,12 @@ Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/re
 
 What I do?  
 ======
-<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/>
+
+Bioinformatics            |  Research Word Cloud
+:-------------------------:|:-------------------------:
+<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/>  |  <img src="../images/VinodResearch_wordcloud3.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/>
+
+<!-- <img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 350px; width:350px;"/> -->
 
 <!--![plot](../images/BioinformaticsVenn.svg)-->
 
