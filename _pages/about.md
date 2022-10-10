@@ -13,10 +13,7 @@ Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/re
 
 I do Bioinformatics :confused:	:innocent:  
 ======
-<img src="../images/BioinformaticsVenn.svg" alt="What is Bioinformatics?" style="height: 700px; width:700px;"/>
-
-<img src="../images/VennTest_drawio.html" alt="What is Bioinformatics?" style="height: 600px; width:600px;"/>
-
+<img src="../images/OnlyBioinforVenn_drawio.svg" alt="What is Bioinformatics?" style="height: 500px; width:500px;"/>
 
 <!--![plot](../images/BioinformaticsVenn.svg)-->
 
