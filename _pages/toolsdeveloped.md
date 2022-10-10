@@ -39,7 +39,7 @@ Bioinformatics software tools developed
   * This tool uses Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns in the cancer genome. A detailed description of the work can be found in the publication.
   * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
 
-  </blockquote></details>
+  </blockquote>
 
 
 
