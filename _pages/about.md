@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/research/erik-larsson) at the University of Gothenburg. I am an interdisciplinary researcher with expertise in computational science. Currently, I use data science techniques to study cancer patients’ genomic profiles and develop artificial intelligence-based solutions for cancer patients’ specific clinical decision-making.
+Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/research/erik-larsson) at the University of Gothenburg. I am an interdisciplinary researcher with expertise in computational science. I use data science techniques to study cancer patients’ genomic profiles and develop artificial intelligence-based solutions for cancer patients’ specific clinical decision-making.
 
 
 What I do?  
