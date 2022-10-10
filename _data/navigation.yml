@@ -8,17 +8,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
+#  - title: "Teaching"
     url: /teaching/    
     
 #  - title: "Portfolio"
     url: /portfolio/
         
-#  - title: "Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+    
+   - title: "Software Tools Developed"
+    url: /toolsdeveloped/
     
 #  - title: "Guide"
 #    url: /markdown/
