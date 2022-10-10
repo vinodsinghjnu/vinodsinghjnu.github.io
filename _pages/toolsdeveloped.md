@@ -33,7 +33,7 @@ Bioinformatics software tools developed
 
   </blockquote>
 
-* **[MutSigTools](https://github.com/sjdlabgroup/MutSigTools))**
+* **[MutSigTools](https://github.com/sjdlabgroup/MutSigTools)**
   <blockquote>
 
   * This tool uses Statistical learning techniques such as Non-Negative matrix factorization technique and Hidden Markov model (HMM), to find unique mutational patterns in the cancer genome. A detailed description of the work can be found in the publication.
