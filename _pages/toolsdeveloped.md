@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Bioinformatics software tools developed 
-======
 * **[HSMotifDiscover](https://github.com/bioinfoDZ/HSMotifDiscover)**
   <blockquote>
 
