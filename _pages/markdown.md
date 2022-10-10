@@ -7,6 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
+## My research over the years
+
+
+<img src="../images/AI_Framework.pdf" alt="AI_framework" style="height: 400px; width:600px;"/> 
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
