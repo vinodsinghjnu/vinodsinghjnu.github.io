@@ -28,8 +28,6 @@ Publications
     <font size=".5"> **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, **“HSMotifDiscover: Identifcation of motifs in sequences composed of non-single-letter elements"**, *Bioinformatics*, p:4036-4038,  v:38-16, 2022 , Oxford University Press [PDF](/files/HSMotifDiscover_Full.pdf)</font>
  
   1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori, **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, 2020, Elsevier
-  
-      <a href="/files/HSMotifDiscover_Full.pdf"><img src="/path/511559_document_download_pdf_file_files_icon.png" alt=" "/> Text Book </a>
 
   1.	**Vinod Kumar Singh**, Arnav Rastogi, Xiaoju Hu, Yaqun Wang and Subhajyoti De,  **“Mutational signature SBS8 predominantly arises due to late replication errors in cancer"**, *Communications Biology*, v:3-421, 2020, Nature
 
