@@ -26,19 +26,19 @@ Publications
 
   1. **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, **“HSMotifDiscover: Identifcation of motifs in sequences composed of non-single-letter elements"**, *Bioinformatics*, p:4036-4038,  v:38-16, 2022 , Oxford University Press [PDF](/files/HSMotifDiscover_Full.pdf)
  
-  1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori, **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, 2020, Elsevier
+  1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori, **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, 2020, Elsevier [PDF](/files/Article7_NeuroComputing_MEL.pdf)
 
-  1.	**Vinod Kumar Singh**, Arnav Rastogi, Xiaoju Hu, Yaqun Wang and Subhajyoti De,  **“Mutational signature SBS8 predominantly arises due to late replication errors in cancer"**, *Communications Biology*, v:3-421, 2020, Nature
+  1.	**Vinod Kumar Singh**, Arnav Rastogi, Xiaoju Hu, Yaqun Wang and Subhajyoti De,  **“Mutational signature SBS8 predominantly arises due to late replication errors in cancer"**, *Communications Biology*, v:3-421, 2020, Nature [PDF](/files/Article_6_CommunicationBiology_2020.pdf)
 
-  1.	**Vinod Kumar Singh**\*, Yang Liu\*, Deyou Zheng, **“Stereo3D: using stereo images to enrich 3D visualization"**, *Bioinformatics*, p:4189:4190, v:36-14, 2020, Oxford University Press
+  1.	**Vinod Kumar Singh**\*, Yang Liu\*, Deyou Zheng, **“Stereo3D: using stereo images to enrich 3D visualization"**, *Bioinformatics*, p:4189:4190, v:36-14, 2020, Oxford University Press [PDF](/files/Article_5_Bioinformatics2020.pdf)
 
-  1.	Urminder Singh, Kushal Shah, Suman Kumar Dhar, **Vinod Kumar Singh**, and Annangarachari Krishnamachari, **“ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"**, *The Journal of Open Source Software*, p:1589,  v:4-40, 2019
+  1.	Urminder Singh, Kushal Shah, Suman Kumar Dhar, **Vinod Kumar Singh**, and Annangarachari Krishnamachari, **“ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"**, *The Journal of Open Source Software*, p:1589,  v:4-40, 2019 [PDF](/files/Article4_JOSS_2019.pdf)
 
-  1.	**Vinod Kumar Singh**, Vipin Kumar and Annangarachari Krishnamachari, **“Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"**, *Biosystems*, p:59-69, v:163, 2018, Elsevier
+  1.	**Vinod Kumar Singh**, Vipin Kumar and Annangarachari Krishnamachari, **“Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"**, *Biosystems*, p:59-69, v:163, 2018, Elsevier [PDF](/files/Article2_MEL.pdf)
 
-  1.	Tanmoy Roychowdhury, **Vinod Kumar Singh** and Alok Bhattacharya, **“Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"**, *Genomics*, p:205-211, v:111-2, 2018, Elsevier.
+  1.	Tanmoy Roychowdhury, **Vinod Kumar Singh** and Alok Bhattacharya, **“Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"**, *Genomics*, p:205-211, v:111-2, 2018, Elsevier [PDF](/files/Article_3_SNP_genomics.pdf)
 
-  1.	**Vinod Kumar Singh** and Annangarachari Krishnamachari, (2016) **"Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"**, *Genomics Data*, p:130-136 , v:9, 2016, Elsevier.
+  1.	**Vinod Kumar Singh** and Annangarachari Krishnamachari, (2016) **"Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"**, *Genomics Data*, p:130-136 , v:9, 2016, Elsevier. [PDF](/files/Article1_characterization.pdf)
 
 
 <h2 id="ConfrePubs">
@@ -47,7 +47,7 @@ Conference Paper
 
 ### Conference Papers:
 
-  * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) **“Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”**. In: Tanveer M., Pachori R. (eds) *Machine Intelligence and Signal Analysis*. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore
+  * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) **“Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”**. In: Tanveer M., Pachori R. (eds) *Machine Intelligence and Signal Analysis*. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore [PDF](/files/Chapter1_Aks.pdf)
 
 <h2 id="bookchaps">
 Book Chapters
@@ -56,4 +56,5 @@ Book Chapters
 ### Book Chapters:
 
   * **Vinod Kumar Singh**, **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, 2022, *CRC Press, Taylor & Francis* (Accepted, In Press).
+
 
