@@ -25,6 +25,12 @@ Publications
 ### Peer-Reviewed Publications:
 
   1. **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, **“HSMotifDiscover: Identifcation of motifs in sequences composed of non-single-letter elements"**, *Bioinformatics*, p:4036-4038,  v:38-16, 2022 , Oxford University Press [pdf](/files/HSMotifDiscover_Full.pdf)
+  
+ <object data="/files/HSMotifDiscover_Full.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/HSMotifDiscover_Full.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/HSMotifDiscover_Full.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
   1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori, **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, 2020, Elsevier
 
