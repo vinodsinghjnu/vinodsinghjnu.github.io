@@ -7,11 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
-For last couple of years, I am applying my data scince skills and knowledge to develop AI based systems to recommend best treatment for cancer patients.  Here is a typical precision oncology framework I am working on. 
+For last couple of years, I am applying my data scince skills and knowledge to develop AI based systems to recommend best treatment for cancer patients. 
 
+# A typical framework of the my research over the years
 
-A typical framework of the my research over the years            |  
-:-------------------------:|
 <img src="../images/AI_framework.svg" alt="AI_framework" style="height: 450px; width:600px;"/> 
 
 In our work the genomic and clinical medical records data of cancer patients is used to build  Artificial Intelligence-based slutions for cancer treatment. The performance of the machine learning models primarily depends on the quality features used to train them. So, most my work revoles around finding those features. To achieve best treatment outcomes, these models are updated continuously on the availability of new patients data and evaluation of treatment outcomes by a team of experts. 
