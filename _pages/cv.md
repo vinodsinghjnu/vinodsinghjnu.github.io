@@ -24,9 +24,11 @@ Skills
 
 Education
 ======
-* Ph.D (Computational Biology and Bioinformatics), Jawaharlal Nehru University, New Delhi, India, 2010-2017
-* M. Tech. (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
-* B. Tech. (Biotechnology), Kurukshetra University, Kurukshetra, India, 2003-2007
+* **Ph.D** (Computational Biology and Bioinformatics), Jawaharlal Nehru University, New Delhi, India, 2010-2017
+  * ***Work:** Applied various Statistical methods to study genomics features and proposed an improved Machine learning approach that can effectively utilise high-dimensional data to find patterns in the genome.*
+* **M. Tech.** (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
+  * ***Work:** Application of Entropy based methods to detect cells boundries in the digital microscopy images.*
+* **B. Tech.** (Biotechnology), Kurukshetra University, Kurukshetra, India, 2003-2007
  
 <h2 id="wrkexp">
 </h2>
