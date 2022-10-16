@@ -6,7 +6,6 @@ title: "Publications"
 [Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp;[Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
 
 <h2 id="active">
-Working Papers
 </h2>
 
 
@@ -14,12 +13,11 @@ Note: \* Represents equal authorship
 
 ### Working Papers:
 
-   1. Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, "TERT promoter mutations induce secondary UV hotspots at ETS binding sites", (Under Writing) 
+   1. Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, **"TERT promoter mutations induce secondary UV hotspots at ETS binding sites"**, (Under Writing) 
 
-   1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, "Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins",  *Nature Communications*, (Under Revision)
+   1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**,  *Nature Communications*, (Under Revision)
 
 <h2 id="pubs">
-Publications
 </h2>
 
 ### Peer-Reviewed Publications:
@@ -42,7 +40,6 @@ Publications
 
 
 <h2 id="ConfrePubs">
-Conference Paper
 </h2>
 
 ### Conference Papers:
@@ -50,7 +47,6 @@ Conference Paper
   * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) **“Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”**. In: Tanveer M., Pachori R. (eds) *Machine Intelligence and Signal Analysis*. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore [PDF](/files/Chapter1_Aks.pdf)
 
 <h2 id="bookchaps">
-Book Chapters
 </h2>
 
 ### Book Chapters:
