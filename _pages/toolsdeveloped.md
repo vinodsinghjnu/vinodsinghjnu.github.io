@@ -26,7 +26,7 @@ author_profile: true
 * **[Stereo3D](https://github.com/bioinfoDZ/Stereo3D)**
   <blockquote>
 
-  * This is an R-Package to project high dimentional (~30,000 x 1,000,000) single cell sequencing data to 3D and produces interactive stereo images for better visualization. A detailed description of the work can be found in the publication.
+  * This is an R-Package to project high dimension (~30,000 x 1,000,000) single cell sequencing data to 3D and produces interactive stereo images for better visualization. A detailed description of the work can be found in the publication.
   * **Skills:** Linear Algebra/Rotation Matrices · Uniform Manifold Approximation and Projection (UMAP) · R
 
   </blockquote>
