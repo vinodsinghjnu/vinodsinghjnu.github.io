@@ -4,7 +4,7 @@ collection: Teaching Assistant
 type: "Msc course (Practical Demonstration)"
 permalink: /teaching/2017-spring-teaching-1
 venue: "Jawaharlal Nehru University, School of Computational and Integrative Sciences"
-date: 2015-01-01
+date: 2017-08-01
 location: "New Delhi, India"
 ---
 
