@@ -8,5 +8,9 @@ date: 2017-08-01
 location: "New Delhi, India"
 ---
 
- **Applications of R-programming in Statistics**
-I worked as a teaching-assistant for this course. The objective of the course was to understand the statistical distribuions of the data and their applications with the help of R-programming.
+ **Application of R-programming in Statistics**: 
+   - Implementation of linear algebric operations in R. 
+   - Statistical distribuions of the data.
+   - Estimating data ditribution parameters from the data.
+   - Comparing distributions.
+   
