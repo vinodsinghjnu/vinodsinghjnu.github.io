@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-For last couple of years, I am applying my data scince skills and knowledge to develop AI based systems to recommend best treatment for cancer patients. Here is a typical framework of the my research over the years. 
+For the last couple of years, I am applying my data science skills and knowledge to develop AI-based systems to recommend the best treatment for cancer patients. Here is a typical framework of my research over the years.
 
 <img src="../images/AI_framework2.jpg" alt="AI_framework" style="height: 450px; width:600px;"/> 
 
