@@ -9,7 +9,7 @@ location: "New Delhi, India"
 ---
 
  **Application of R-programming in Statistics**: 
-   - Implementation of linear algebric operations in R. 
+   - Implementation of linear algebra operations in R. 
    - Statistical distribuions of the data.
    - Estimating data ditribution parameters from the data.
    - Comparing distributions.
