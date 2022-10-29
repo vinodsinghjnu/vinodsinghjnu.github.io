@@ -83,9 +83,9 @@ author:
   name             : "Vinod Singh"
   avatar           : "Vinod.jpeg"
   bio              : "Postdoctoral Data-Scientist (Bioinformatics) | Genomics | Data Science | Statistical Learning | "
-  location         : "University of Gothenburg, Sweden"
+  location         : "University of Gothenburg, \n Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1"
   email            : "vinod.singh@gu.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7556-2505"
+  linkedin         : "vinod-singh-phd-jnu"
+  orcid            : "0000-0002-7556-2505"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
