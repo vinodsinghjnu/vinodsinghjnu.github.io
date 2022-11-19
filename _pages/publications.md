@@ -14,6 +14,7 @@ Note: \* Represents equal authorship
 ### Working Papers:
 
    1. Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, **"TERT promoter mutations induce secondary UV hotspots at ETS binding sites"**, (Under Writing) 
+   2. Satheesh Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Suhas Kharat, Vinod Kumar Singh, Mary Albaugh, Sandra Burkett, Yongmei Zhao, Bao Tran, Subhajyoti De, and Shyam Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Nature Cancer*, (Under Revision)
 
    1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**,  *Nature Communications*, (Under Revision)
 
