@@ -56,6 +56,6 @@ Note: \* Represents equal authorship
 
 ### Book Chapters:
 
-  * **Vinod Kumar Singh**, **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, 2022, *CRC Press, Taylor & Francis* (Accepted, In Press).
+  * **Vinod Kumar Singh**, **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, 2022, *CRC Press, Taylor & Francis* [Link]([https://www.sciencedirect.com/science/article/pii/S000527282200367X?via%3Dihub](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003368342-14/emerging-role-artificial-intelligence-precision-oncology-vinod-kumar-singh)https://www.taylorfrancis.com/chapters/edit/10.1201/9781003368342-14/emerging-role-artificial-intelligence-precision-oncology-vinod-kumar-singh)
 
 
