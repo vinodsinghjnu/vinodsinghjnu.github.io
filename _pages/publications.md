@@ -47,7 +47,7 @@ Note: \* Represents equal authorship
 
 ### Conference Papers:
 
-  * Katarzyna Niedźwiecka, Choco Michael Gorospe, **Vinod Kumar Singh**, Kerryn Elliott, Alicia Herrera Curbelo, Gustavo Carvalho, Lisa Marchhart, Erik Larsson, Paulina H. Wanrooij (2022) **“How does the presence of mitochondrial DNA regulate the cell cycle in Saccharomyces cerevisiae?”**, *Biochimica et Biophysica Acta (BBA)-Bioenergetics*. vol 1863. Elsevier, [Link](https://www.sciencedirect.com/science/article/pii/S000527282200367X?via%3Dihub)
+  * Katarzyna Niedźwiecka, Choco Michael Gorospe, **Vinod Kumar Singh**, Kerryn Elliott, Alicia Herrera Curbelo, Gustavo Carvalho, Lisa Marchhart, Erik Larsson, Paulina H. Wanrooij (2022) **“How does the presence of mitochondrial DNA regulate the cell cycle in Saccharomyces cerevisiae?”**, *Biochimica et Biophysica Acta (BBA)-Bioenergetics*. vol 1863. Elsevier, [Link](https://www.sciencedirect.com/science/article/pii/S000527282200367X?via%3Dihub){:target="_blank"}
 
   * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) **“Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”**. In: Tanveer M., Pachori R. (eds) *Machine Intelligence and Signal Analysis*. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore [PDF](/files/Chapter1_Aks.pdf)
 
