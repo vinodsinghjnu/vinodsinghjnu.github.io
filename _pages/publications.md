@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp;[Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1)
+[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp;[Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1){:target="_blank"}
 
 <h2 id="active">
 </h2>
