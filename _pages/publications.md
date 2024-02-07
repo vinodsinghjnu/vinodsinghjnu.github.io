@@ -15,15 +15,15 @@ Note: \* Represents equal authorship
 
    1. Kerryn Elliott\*, **Vinod Kumar Singh**\*, Tom Luijts and Erik Larsson, **"TERT promoter mutations induce secondary UV hotspots at ETS binding sites"**, (Under Revision) 
 
-   1. Satheesh Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Suhas Kharat, **Vinod K. Singh**, Mary Albaugh, Sandra Burkett, Yongmei Zhao, Bao Tran, Subhajyoti De, and Shyam Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Nature Cancer*, (Under Revision)
-
 
 <h2 id="pubs">
 </h2>
 
 ### Peer-Reviewed Publications:
+   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, 2024, American Society for Clinical Investigation
 
-  1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**,  *Nature Communications*, [PDF](/files/2023_UV_damagePatterns.pdf)
+
+  1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**, *Nature Communications*, v:14, 2023 [PDF](/files/2023_UV_damagePatterns.pdf)
 
   1. **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, **“HSMotifDiscover: Identifcation of motifs in sequences composed of non-single-letter elements"**, *Bioinformatics*, p:4036-4038,  v:38-16, 2022 , Oxford University Press [PDF](/files/HSMotifDiscover_Full.pdf)
  
