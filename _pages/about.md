@@ -30,6 +30,6 @@ New Updates
 
 Contact Information
 ======
-* Email: vinod.acear@gmail.com, vinod.singh@gu.se
+* Email: vinod.acear@gmail.com, vinod.singh@clin.au.dk
 * Department of Molecular Medicine, Aarhus University Hospital, Denmark.
 
