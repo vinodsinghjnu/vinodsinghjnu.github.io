@@ -31,5 +31,5 @@ New Updates
 Contact Information
 ======
 * Email: vinod.acear@gmail.com, vinod.singh@gu.se
-* Institute of Biomedicine, University of Gothenburg.
+* Department of Molecular Medicine, Aarhus University Hospital, Denmark.
 
