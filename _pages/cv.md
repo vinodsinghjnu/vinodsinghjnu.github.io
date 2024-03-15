@@ -40,7 +40,7 @@ Work experience
 * **2023/05- Present: Postdoctoral Research Scientist, Aarhus University, Denmark**
   <details><blockquote>
 
-  * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
+  * **Responsibilities:** Planning and completion of research projects, followed by publishing, presenting and reporting new findings to the scientific community.
   * **Project 1:**  Development of computational methods to descover genomic patterns resposible for rare diseases in new-borns.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 
