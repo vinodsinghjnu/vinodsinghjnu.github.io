@@ -37,7 +37,16 @@ Education
 
 Work experience
 ======
-* **2020/03- Present: Researcher, University of Gothenburg, Gothenburg, Sweden**
+* **2023/05- Present: Postdoctoral Research Scientist, Aarhus University, Denmark**
+  <details><blockquote>
+
+  * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
+  * **Project 1:**  Development of computational methods to descover genomic patterns resposible for rare diseases in new-borns.
+  * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
+
+  </blockquote></details>
+  
+* **2020/03- 2023/04: Researcher, University of Gothenburg, Sweden**
   <details><blockquote>
 
   * **Responsibilities:** Planning and completion of research projects, followed by publishing or reporting new findings to the scientific community.
