@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post-doctoral researcher in [LarssonLab](https://www.gu.se/en/research/erik-larsson) at the University of Gothenburg. I am an interdisciplinary researcher with expertise in computational science. I use data science techniques to study cancer patients’ genomic profiles and develop artificial intelligence-based solutions for patients’ specific clinical decision-making.
+Welcome! I am a research scientist in [Besenbacher research group](https://www.moma.dk/bioinformatics/computational-genomics#people) at Aarhus University, Denmark. As a computational scientist, I unlock insights from cancer patients' genomic data using data science. These insights fuel the development of AI-powered tools for personalized treatment plans, empowering better clinical decisions.
+
 
 
 What I do?  
