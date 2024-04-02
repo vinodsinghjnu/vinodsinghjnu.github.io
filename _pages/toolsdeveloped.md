@@ -39,7 +39,7 @@ author_profile: true
 
   </blockquote>
 
-  * **[CustomBioInfoFunctionsHumanGenome](https://vinodsinghjnu.github.io/CustomBioInfoFunctionsHumanGenome/articles/CustomBioInfoFunctionsHumanGenome.html#pctoverlap_of_firstgrtosecondgr)**
+* **[CustomBioInfoFunctionsHumanGenome](https://vinodsinghjnu.github.io/CustomBioInfoFunctionsHumanGenome/articles/CustomBioInfoFunctionsHumanGenome.html#pctoverlap_of_firstgrtosecondgr)**
   <blockquote>
 
   * This Package contains some customized functions for routine operations used in human genome analysis. 
