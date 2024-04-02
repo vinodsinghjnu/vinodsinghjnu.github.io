@@ -29,7 +29,7 @@ Education
 * **M. Tech.** (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
   * ***Work:** Application of Signal processing techniques to detect cell boundaries in the digital microscopy images.*
 * **B. Tech.** (Biotechnology), Kurukshetra University, Kurukshetra, India, 2003-2007
-  * ***Work:**  Besides my coursework, In my dissertation, I modelled cell growth in a closed and controlled fermentation environment.
+  * **Work:** Besides my coursework, In my dissertation, I modelled cell growth in a closed and controlled fermentation environment.
 
  
 <h2 id="wrkexp">
