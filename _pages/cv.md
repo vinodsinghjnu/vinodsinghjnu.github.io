@@ -42,7 +42,7 @@ Work experience
 * **2023/05- Present: Postdoctoral Research Scientist, Aarhus University, Denmark**
   <details><blockquote>
 
-  * **Responsibilities:** Systematically strategizing and executing research projects, leading to the unveiling of groundbreaking discoveries shared with the scientific community via publication or comprehensive reporting.
+  * **Responsibilities:** Driving research projects through meticulous planning and execution, ultimately sharing groundbreaking discoveries with the scientific community.
   * **Project 1:**  Development of computational methods to discover genomic patterns responsible for rare diseases in newborns.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 
@@ -51,8 +51,8 @@ Work experience
 * **2020/03- 2023/04: Researcher, University of Gothenburg, Sweden**
   <details><blockquote>
 
-  * **Responsibilities:** Conducting thorough planning and executing research projects, culminating in the dissemination of novel discoveries to the scientific community through publication or reporting.
-  * **Project 1:** My research delves into the rich diversity of mutation and epigenomic data characterizing cancer cells and their roles in cancer progression, particularly focusing on melanoma. I aim to advance our understanding by employing sophisticated data normalization techniques to seamlessly integrate multimodal datasets. Through this integration, I strive to develop an innovative artificial intelligence (AI)-driven clinical decision-making system tailored for precise treatment guidance in melanoma patients. By harnessing the power of AI, we aim to revolutionize cancer care by offering personalized and effective therapeutic strategies. 
+  * **Responsibilities:** Driving research projects through meticulous planning and execution, ultimately sharing groundbreaking discoveries with the scientific community.
+  * **Project 1:** My research explored the complex interplay between mutations and epigenetic changes in cancer cells, particularly in melanoma, to understand how they drive tumour progression. I developed innovative methods to integrate diverse data types, enabling the creation of a powerful AI-driven clinical decision support system for melanoma patients. This system aims to revolutionize cancer care by providing personalized treatment recommendations and improving patient outcomes.
   * **Project 2:** This is a collaborative project where I used barseq (barcode high throughput sequencing) data of yeast deletion strains to discover the genes responsible for delay in cell division in mitochondria-depleted cells.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 
