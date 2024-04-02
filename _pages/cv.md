@@ -24,7 +24,7 @@ Skills
 
 Education
 ======
-* **PhD** (Computational Biology and Bioinformatics), Jawaharlal Nehru University, New Delhi, India, 2010-2017
+* **PhD** (Computational Science), Jawaharlal Nehru University, New Delhi, India, 2010-2017
   * ***Work:** Applied various Statistical methods to study genomics features and proposed an improved Machine learning approach that effectively utilises high-dimensional data to find patterns in the genome.*
 * **M. Tech.** (Computational and Systems Biology), Jawaharlal Nehru University,  New Delhi, India, 2008-2010
   * ***Work:** Application of Signal processing techniques to detect cell boundaries in the digital microscopy images.*
@@ -40,7 +40,7 @@ Work experience
 * **2023/05- Present: Postdoctoral Research Scientist, Aarhus University, Denmark**
   <details><blockquote>
 
-  * **Responsibilities:** Conducting thorough planning and executing research projects, culminating in the dissemination of novel discoveries to the scientific community through publication or reporting.
+  * **Responsibilities:** Systematically strategizing and executing research projects, leading to the unveiling of groundbreaking discoveries shared with the scientific community via publication or comprehensive reporting.
   * **Project 1:**  Development of computational methods to discover genomic patterns responsible for rare diseases in newborns.
   * **Skills:** Data Science · NGS data analysis · Genomics · R · High Performance Computing (HPC)
 
