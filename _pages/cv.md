@@ -17,7 +17,7 @@ redirect_from:
 
 Skills
 ======
- ·Data Science · NGS data analysis · Computational-Genomics · Machine Learning · Statistical Learning · R · Python · High Performance Computing (HPC) · LATEX 
+ ·Data Science ·Machine Learning ·NGS data analysis · Statistical Learning · Computational-Genomics · R · Python · High Performance Computing (HPC) · LATEX 
  
 <h2 id="ed">
 </h2>
