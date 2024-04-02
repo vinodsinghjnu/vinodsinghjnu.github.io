@@ -7,14 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-* **[CustomBioInfoFunctionsHumanGenome](https://vinodsinghjnu.github.io/CustomBioInfoFunctionsHumanGenome/articles/CustomBioInfoFunctionsHumanGenome.html#pctoverlap_of_firstgrtosecondgr)**
-  <blockquote>
-
-  * This Package contains some customized functions for routine operations used in human genome analysis. 
-  * **Skills:** R · Software development ·
-
-  </blockquote>
-
 * **[HSMotifDiscover](https://github.com/bioinfoDZ/HSMotifDiscover)**
   <blockquote>
 
@@ -44,6 +36,14 @@ author_profile: true
 
   * This tool uses Statistical learning techniques such as the Non-Negative matrix factorization technique and the Hidden Markov model (HMM), to find unique mutational patterns in the cancer genome. A detailed description of the work can be found in the publication.
   * **Skills:** Dimensionality reduction · Statistical Learning · Non-Negative Matrix Factorisation (NMF) · Hidden Markov Models(HMM) · Python · Genomics · R · High Performance Computing (HPC)
+
+  </blockquote>
+
+  * **[CustomBioInfoFunctionsHumanGenome](https://vinodsinghjnu.github.io/CustomBioInfoFunctionsHumanGenome/articles/CustomBioInfoFunctionsHumanGenome.html#pctoverlap_of_firstgrtosecondgr)**
+  <blockquote>
+
+  * This Package contains some customized functions for routine operations used in human genome analysis. 
+  * **Skills:** R · Software development ·
 
   </blockquote>
 
