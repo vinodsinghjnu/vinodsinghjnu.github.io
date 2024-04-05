@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I work in a research group of 7-8 researchers from diverse backgrounds but our objective is to develop AI-based solutions to recommend the best treatment for cancer patients. My role in the group is to provide my data science skills and computational knowledge to understand the data and troubleshoot the problems encountered in the process. Here is a typical framework of my research over the years.
+I'm part of a dynamic research group of 7-8 researchers with diverse backgrounds, all united by a common goal: developing AI-based solutions to personalize cancer treatment.  Within this team, I leverage my data science expertise and computational knowledge to unlock the insights hidden within complex datasets. I also play a key role in troubleshooting any challenges that arise throughout the research process.  Here's a typical framework for my research activities over the years.
 
 <img src="../images/AI_framework2.jpg" alt="AI_framework" style="height: 410px; width:720px;"/> 
 
