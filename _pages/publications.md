@@ -20,7 +20,7 @@ Note: \* Represents equal authorship
 </h2>
 
 ### Peer-Reviewed Publications:
-   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, 2024, American Society for Clinical Investigation
+   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, 2024, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf)
 
 
   1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**, *Nature Communications*, v:14, 2023 [PDF](/files/2023_UV_damagePatterns.pdf)
