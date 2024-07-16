@@ -15,7 +15,7 @@ Note: \* Represents equal authorship
 
    1. Kerryn Elliott\*,**Vinod Kumar Singh**\*, Alan Bäckerholm, Tom Luijts, Jimmy van den Eynden, Anders Ståhlberg and Erik Larsson, **"TERT promoter mutations induce secondary UV hotspots at ETS binding sites"**, *Nature Communications* (Under Revision)
    
-   3. Peter Soerud Porsborg\*, Anders Poulsen Charmouh\*, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**,  *Nature* (Under Revision) [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1)
+   3. Peter Soerud Porsborg\*, Anders Poulsen Charmouh\*, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**,  *Nature* (Under Revision) [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1){:target="_blank"}
 
 
 
@@ -23,7 +23,7 @@ Note: \* Represents equal authorship
 </h2>
 
 ### Peer-Reviewed Publications:
-   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, 2024, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf)
+   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, 2024, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf){:target="_blank"}
 
 
   1. Kerryn Elliott, **Vinod K. Singh**, Martin Boström, Erik Larsson, **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**, *Nature Communications*, v:14, 2023 [PDF](/files/2023_UV_damagePatterns.pdf)
