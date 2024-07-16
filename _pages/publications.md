@@ -15,7 +15,7 @@ Note: \* Represents equal authorship
 
    1. Kerryn Elliott\*,**Vinod Kumar Singh**\*, Alan Bäckerholm, Tom Luijts, Jimmy van den Eynden, Anders Ståhlberg and Erik Larsson, **"TERT promoter mutations induce secondary UV hotspots at ETS binding sites"**, *Nature Communications* (Under Revision)
    
-   3. Peter Soerud Porsborg, Anders Poulsen Charmouh, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**,  *Nature* (Under Revision) [link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1)
+   3. Peter Soerud Porsborg, Anders Poulsen Charmouh, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**,  *Nature* (Under Revision) [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1)
 
 
 
