@@ -21,28 +21,28 @@ Note: \* Represents equal authorship
 </h2>
 
 ### Peer-Reviewed Publications:
-   1. Kerryn Elliott, **Vinod Kumar Singh**, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson, (2024) **"TMechanistic basis of atypical TERT promoter mutations"**, *Nature Communications*
+   1. Kerryn Elliott, **Vinod Kumar Singh**, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson (2024) **"TMechanistic basis of atypical TERT promoter mutations"**, *Nature Communications*
 
-   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan, (2024) **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf){:target="_blank"}
+   1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan (2024) **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf){:target="_blank"}
 
 
-  1. Kerryn Elliott, **Vinod Kumar Singh**, Martin Boström, Erik Larsson, (2023) **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**, *Nature Communications*, v:14, [PDF](/files/2023_UV_damagePatterns.pdf){:target="_blank"}
+  1. Kerryn Elliott, **Vinod Kumar Singh**, Martin Boström, Erik Larsson (2023) **"Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"**, *Nature Communications*, v:14, [PDF](/files/2023_UV_damagePatterns.pdf){:target="_blank"}
 
   1. **Vinod Kumar Singh**, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng, (2022)**“HSMotifDiscover: Identifcation of motifs in sequences composed of non-single-letter elements"**, *Bioinformatics*, p:4036-4038,  v:38-16 , Oxford University Press [PDF](/files/HSMotifDiscover_Full.pdf){:target="_blank"}
  
-  1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori, (2020) **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, Elsevier [PDF](/files/Article7_NeuroComputing_MEL.pdf){:target="_blank"}
+  1. A. Gupta, R. U. Khan, **V. K. Singh**, M. Tanveer, D. Kumar, A. Chakraborti and R. B. Pachori (2020) **“A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"**, *Neurocomputing*, p:558-584, v:417, Elsevier [PDF](/files/Article7_NeuroComputing_MEL.pdf){:target="_blank"}
 
-  1.	**Vinod Kumar Singh**, Arnav Rastogi, Xiaoju Hu, Yaqun Wang and Subhajyoti De, (2020) **“Mutational signature SBS8 predominantly arises due to late replication errors in cancer"**, *Communications Biology*, v:3-421, Nature [PDF](/files/Article_6_CommunicationBiology_2020.pdf){:target="_blank"}
+  1.	**Vinod Kumar Singh**, Arnav Rastogi, Xiaoju Hu, Yaqun Wang and Subhajyoti De (2020) **“Mutational signature SBS8 predominantly arises due to late replication errors in cancer"**, *Communications Biology*, v:3-421, Nature [PDF](/files/Article_6_CommunicationBiology_2020.pdf){:target="_blank"}
 
-  1.	**Vinod Kumar Singh**\*, Yang Liu\*, Deyou Zheng, (2020) **“Stereo3D: using stereo images to enrich 3D visualization"**, *Bioinformatics*, p:4189:4190, v:36-14, Oxford University Press [PDF](/files/Article_5_Bioinformatics2020.pdf){:target="_blank"}
+  1.	**Vinod Kumar Singh**\*, Yang Liu\*, Deyou Zheng (2020) **“Stereo3D: using stereo images to enrich 3D visualization"**, *Bioinformatics*, p:4189:4190, v:36-14, Oxford University Press [PDF](/files/Article_5_Bioinformatics2020.pdf){:target="_blank"}
 
-  1.	Urminder Singh, Kushal Shah, Suman Kumar Dhar, **Vinod Kumar Singh**, and Annangarachari Krishnamachari, (2019) **“ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"**, *The Journal of Open Source Software*, p:1589,  v:4-40 [PDF](/files/Article4_JOSS_2019.pdf){:target="_blank"}
+  1.	Urminder Singh, Kushal Shah, Suman Kumar Dhar, **Vinod Kumar Singh**, and Annangarachari Krishnamachari (2019) **“ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"**, *The Journal of Open Source Software*, p:1589,  v:4-40 [PDF](/files/Article4_JOSS_2019.pdf){:target="_blank"}
 
-  1.	**Vinod Kumar Singh**, Vipin Kumar and Annangarachari Krishnamachari, (2018) **“Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"**, *Biosystems*, p:59-69, v:163, Elsevier [PDF](/files/Article2_MEL.pdf){:target="_blank"}
+  1.	**Vinod Kumar Singh**, Vipin Kumar and Annangarachari Krishnamachari (2018) **“Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"**, *Biosystems*, p:59-69, v:163, Elsevier [PDF](/files/Article2_MEL.pdf){:target="_blank"}
 
-  1.	Tanmoy Roychowdhury, **Vinod Kumar Singh** and Alok Bhattacharya, (2018) **“Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"**, *Genomics*, p:205-211, v:111-2, Elsevier [PDF](/files/Article_3_SNP_genomics.pdf){:target="_blank"}
+  1.	Tanmoy Roychowdhury, **Vinod Kumar Singh** and Alok Bhattacharya (2018) **“Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"**, *Genomics*, p:205-211, v:111-2, Elsevier [PDF](/files/Article_3_SNP_genomics.pdf){:target="_blank"}
 
-  1.	**Vinod Kumar Singh** and Annangarachari Krishnamachari, (2016) **"Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"**, *Genomics Data*, p:130-136 , v:9, 2016, Elsevier. [PDF](/files/Article1_characterization.pdf){:target="_blank"}
+  1.	**Vinod Kumar Singh** and Annangarachari Krishnamachari (2016) **"Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"**, *Genomics Data*, p:130-136 , v:9, 2016, Elsevier. [PDF](/files/Article1_characterization.pdf){:target="_blank"}
 
 
 <h2 id="ConfrePubs">
@@ -59,5 +59,5 @@ Note: \* Represents equal authorship
 
 ### Book Chapters:
 
-  * **Vinod Kumar Singh**, **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, 2022, *CRC Press, Taylor & Francis* [Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003368342-14/emerging-role-artificial-intelligence-precision-oncology-vinod-kumar-singh){:target="_blank"}
+  * **Vinod Kumar Singh** (2022) **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, *CRC Press, Taylor & Francis* [Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003368342-14/emerging-role-artificial-intelligence-precision-oncology-vinod-kumar-singh){:target="_blank"}
 
