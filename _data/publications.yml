@@ -12,7 +12,7 @@
   year: 2024
   volume: null
   pages: null
-  doi: 10.1172/JCI173718
+  doi: https://doi.org/10.1172/JCI173718
   
 - title: "Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"
   authors: "Kerryn Elliott, Vinod Kumar Singh, Martin Boström, Erik Larsson"
@@ -28,7 +28,7 @@
   year: 2022
   volume: "38-16"
   pages: "4036-4038"
-  doi: 10.1093/bioinformatics/btac437
+  doi: https://doi.org/10.1093/bioinformatics/btac437
 
 - title: "A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"
   authors: "A. Gupta, R. U. Khan, V. K. Singh, M. Tanveer, D. Kumar, A. Chakraborti, R. B. Pachori"
@@ -36,7 +36,7 @@
   year: 2020
   volume: "417"
   pages: "558-584"
-  doi: 10.1016/j.neucom.2020.07.050
+  doi: https://doi.org/10.1016/j.neucom.2020.07.050
 
 - title: "Mutational signature SBS8 predominantly arises due to late replication errors in cancer"
   authors: "Vinod Kumar Singh, Arnav Rastogi, Xiaoju Hu, Yaqun Wang, Subhajyoti De"
@@ -44,7 +44,7 @@
   year: 2020
   volume: "3-421"
   pages: null
-  doi: 10.1038/s42003-020-01119-5
+  doi: https://doi.org/10.1038/s42003-020-01119-5
 
 - title: "Stereo3D: using stereo images to enrich 3D visualization"
   authors: "Vinod Kumar Singh, Yang Liu, Deyou Zheng"
@@ -52,7 +52,7 @@
   year: 2020
   volume: "36-14"
   pages: "4189-4190"
-  doi: 10.1093/bioinformatics/btaa521
+  doi: https://doi.org/10.1093/bioinformatics/btaa521
 
 - title: "ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"
   authors: "Urminder Singh, Kushal Shah, Suman Kumar Dhar, Vinod Kumar Singh, Annangarachari Krishnamachari"
@@ -60,7 +60,7 @@
   year: 2019
   volume: "4-40"
   pages: "1589"
-  doi: 10.21105/joss.01589
+  doi: https://doi.org/10.21105/joss.01589
 
 - title: "Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"
   authors: "Vinod Kumar Singh, Vipin Kumar, Annangarachari Krishnamachari"
@@ -68,7 +68,7 @@
   year: 2018
   volume: "163"
   pages: "59-69"
-  doi: 10.1016/j.biosystems.2017.12.005
+  doi: https://doi.org/10.1016/j.biosystems.2017.12.005
 
 - title: "Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"
   authors: "Tanmoy Roychowdhury, Vinod Kumar Singh, Alok Bhattacharya"
@@ -76,7 +76,7 @@
   year: 2018
   volume: "111-2"
   pages: "205-211"
-  doi: 10.1016/j.ygeno.2018.02.004
+  doi: https://doi.org/10.1016/j.ygeno.2018.02.004
   
 - title: "Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"
   authors: "Vinod Kumar Singh, Annangarachari Krishnamachari"
