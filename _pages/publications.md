@@ -61,3 +61,19 @@ Note: \* Represents equal authorship
 
   * **Vinod Kumar Singh** (2022) **"Emerging role of Artificial intelligence in precision oncology"**,  In: Gupta A. K., (eds) *Computational Methods and Applications in Healthcare Domain*, *CRC Press, Taylor & Francis* [Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003368342-14/emerging-role-artificial-intelligence-precision-oncology-vinod-kumar-singh){:target="_blank"}
 
+
+# Publications
+
+{% assign publications_by_year = site.data.publications | group_by: "year" %}
+{% for year in publications_by_year %}
+## {{ year.name }}
+
+  {% for publication in year.items %}
+  - **Title**: {{ publication.title }}  
+    **Authors**: {{ publication.authors }}  
+    **Journal**: {{ publication.journal }}  
+    **DOI**: [doi link]({{ publication.doi }})
+  {% endfor %}
+
+{% endfor %}
+
