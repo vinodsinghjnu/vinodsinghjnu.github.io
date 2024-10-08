@@ -1,17 +1,87 @@
-- title: "Title of the Publication 1"
-  authors: "Author A, Author B"
-  journal: "Journal Name"
+- title: "Mechanistic basis of atypical TERT promoter mutations"
+  authors: "Kerryn Elliott, Vinod Kumar Singh, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson"
+  journal: "Nature Communications"
   year: 2024
-  doi: "https://doi.org/example"
+  volume: null
+  pages: null
+  doi: "PDF"  
   
-- title: "Title of the Publication 2"
-  authors: "Author C, Author D"
-  journal: "Journal Name"
+- title: "MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"
+  authors: "Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, Vinod Kumar Singh, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, Shyam K. Sharan"
+  journal: "Journal of Clinical Investigation, American Society for Clinical Investigation"
   year: 2024
-  doi: "https://doi.org/example"
+  volume: null
+  pages: null
+  doi: 10.1172/JCI173718
   
-- title: "Title of the Publication 3"
-  authors: "Author A, Author B"
-  journal: "Journal Name"
+- title: "Base-resolution UV footprinting by sequencing reveals distinctive damage signatures for DNA-binding proteins"
+  authors: "Kerryn Elliott, Vinod Kumar Singh, Martin Boström, Erik Larsson"
+  journal: "Nature Communications"
   year: 2023
-  doi: "https://doi.org/example"
+  volume: "14"
+  pages: null
+  doi: https://doi.org/10.1038/s41467-023-38266-2
+
+- title: "HSMotifDiscover: Identification of motifs in sequences composed of non-single-letter elements"
+  authors: "Vinod Kumar Singh, Rohan Misra, Steven C. Almo, Ulrich G. Steidl, Hannes E. Bulow, Deyou Zheng"
+  journal: "Bioinformatics"
+  year: 2022
+  volume: "38-16"
+  pages: "4036-4038"
+  doi: 10.1093/bioinformatics/btac437
+
+- title: "A novel approach for classification of mental tasks using multiview ensemble learning (MEL)"
+  authors: "A. Gupta, R. U. Khan, V. K. Singh, M. Tanveer, D. Kumar, A. Chakraborti, R. B. Pachori"
+  journal: "Neurocomputing"
+  year: 2020
+  volume: "417"
+  pages: "558-584"
+  doi: 10.1016/j.neucom.2020.07.050
+
+- title: "Mutational signature SBS8 predominantly arises due to late replication errors in cancer"
+  authors: "Vinod Kumar Singh, Arnav Rastogi, Xiaoju Hu, Yaqun Wang, Subhajyoti De"
+  journal: "Communications Biology"
+  year: 2020
+  volume: "3-421"
+  pages: null
+  doi: 10.1038/s42003-020-01119-5
+
+- title: "Stereo3D: using stereo images to enrich 3D visualization"
+  authors: "Vinod Kumar Singh, Yang Liu, Deyou Zheng"
+  journal: "Bioinformatics"
+  year: 2020
+  volume: "36-14"
+  pages: "4189-4190"
+  doi: 10.1093/bioinformatics/btaa521
+
+- title: "ORIS: An interactive software tool for prediction of replication origin in prokaryotic genomes"
+  authors: "Urminder Singh, Kushal Shah, Suman Kumar Dhar, Vinod Kumar Singh, Annangarachari Krishnamachari"
+  journal: "The Journal of Open Source Software"
+  year: 2019
+  volume: "4-40"
+  pages: "1589"
+  doi: 10.21105/joss.01589
+
+- title: "Prediction of replication sites in Saccharomyces cerevisiae genome using DNA segment properties: Multi-view ensemble learning (MEL) approach"
+  authors: "Vinod Kumar Singh, Vipin Kumar, Annangarachari Krishnamachari"
+  journal: "Biosystems"
+  year: 2018
+  volume: "163"
+  pages: "59-69"
+  doi: 10.1016/j.biosystems.2017.12.005
+
+- title: "Classification of pathogenic microbes using a minimal set of single nucleotide polymorphisms derived from whole genome sequences"
+  authors: "Tanmoy Roychowdhury, Vinod Kumar Singh, Alok Bhattacharya"
+  journal: "Genomics"
+  year: 2018
+  volume: "111-2"
+  pages: "205-211"
+  doi: 10.1016/j.ygeno.2018.02.004
+  
+- title: "Context based computational analysis and characterization of ARS consensus sequences (ACS) of Saccharomyces cerevisiae genome"
+  authors: "Vinod Kumar Singh, Annangarachari Krishnamachari"
+  journal: "Genomics Data"
+  year: 2016
+  volume: "9"
+  pages: "130-136"
+  doi: https://doi.org/10.1016/j.gdata.2016.07.005
