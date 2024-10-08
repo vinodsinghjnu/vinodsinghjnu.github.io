@@ -1,1 +1,17 @@
-
+- title: "Title of the Publication 1"
+  authors: "Author A, Author B"
+  journal: "Journal Name"
+  year: 2024
+  doi: "https://doi.org/example"
+  
+- title: "Title of the Publication 2"
+  authors: "Author C, Author D"
+  journal: "Journal Name"
+  year: 2024
+  doi: "https://doi.org/example"
+  
+- title: "Title of the Publication 3"
+  authors: "Author A, Author B"
+  journal: "Journal Name"
+  year: 2023
+  doi: "https://doi.org/example"
