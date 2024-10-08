@@ -21,7 +21,7 @@ Note: \* Represents equal authorship
 </h2>
 
 ### Peer-Reviewed Publications:
-   1. Kerryn Elliott, **Vinod Kumar Singh**, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson (2024) **"TMechanistic basis of atypical TERT promoter mutations"**, *Nature Communications*
+   1. Kerryn Elliott, **Vinod Kumar Singh**, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson (2024) **"Mechanistic basis of atypical TERT promoter mutations"**, *Nature Communications*
 
    1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan (2024) **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf){:target="_blank"}
 
