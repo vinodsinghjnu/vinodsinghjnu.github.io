@@ -78,3 +78,16 @@ Note: \* Represents equal authorship
 {% endfor %}
  -->
 
+# Publications
+
+{% assign publications_by_year = site.data.publications | group_by: "year" %}
+{% for year in publications_by_year %}
+## {{ year.name }}
+
+  {% for publication in year.items %}
+  - {{ publication.authors }} {{ publication.year }} , {{ publication.title }}, {{ publication.journal }}, [doi link]({{ publication.doi }})
+  {% endfor %}
+
+{% endfor %}
+
+
