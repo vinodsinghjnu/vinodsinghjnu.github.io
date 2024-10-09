@@ -78,6 +78,8 @@ Note: \* Represents equal authorship
 {% endfor %}
  -->
 
+<!--
+
 # Publications
 
 {% assign publications_by_year = site.data.publications | group_by: "year" %}
@@ -90,4 +92,5 @@ Note: \* Represents equal authorship
 
 {% endfor %}
 
+ -->
 
