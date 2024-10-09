@@ -85,7 +85,7 @@ Note: \* Represents equal authorship
 ## {{ year.name }}
 
   {% for publication in year.items %}
-  - {{ publication.authors }} {{ publication.year }} , {{ publication.title }}, {{ publication.journal }}, [doi link]({{ publication.doi }})
+  - {{ publication.authors }} ({{ publication.year }}) , "{{ publication.title }}", *{{ publication.journal }}*, [doi link]({{ publication.doi }})
   {% endfor %}
 
 {% endfor %}
