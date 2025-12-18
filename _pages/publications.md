@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Preprints Articles](#preprints) &nbsp; &nbsp; - &nbsp; &nbsp; [Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1){:target="_blank"}
+[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Preprint Articles](#preprints) &nbsp; &nbsp; - &nbsp; &nbsp; [Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1){:target="_blank"}
 
 <h2 id="active">
 </h2>
@@ -61,7 +61,7 @@ Note: \* Represents equal authorship
 <h2 id="preprints">
 </h2>
 
-### Preprints Articles:
+### Preprint Articles:
 
 1. Peter Soerud Porsborg\*, Anders Poulsen Charmouh\*, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**, BioRxiv [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1){:target="_blank"}
 
