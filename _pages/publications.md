@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp;[Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1){:target="_blank"}
+[Working Papers](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Conference Papers](#ConfrePubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Preprints Articles](#preprints) &nbsp; &nbsp; - &nbsp; &nbsp; [Book Chapters](#bookchaps) &nbsp; &nbsp; - &nbsp; &nbsp;[(Google Scholar Profile)](https://scholar.google.co.in/citations?user=2482OI4AAAAJ&hl=en&authuser=1){:target="_blank"}
 
 <h2 id="active">
 </h2>
@@ -56,13 +56,17 @@ Note: \* Represents equal authorship
 
   * Gupta A., Kumar D., Chakraborti A., **Kumar Singh V.** (2019) **“Distinguishing Two Different Mental States of Human Thought Using Soft Computing Approaches”**. In: Tanveer M., Pachori R. (eds) *Machine Intelligence and Signal Analysis*. Advances in Intelligent Systems and Computing, vol 748. Springer, Singapore [PDF](/files/Chapter1_Aks.pdf){:target="_blank"}
 
-<h2 id="bookchaps">
+
+
+<h2 id="preprints">
 </h2>
 
 ### Preprints Articles:
 
 1. Peter Soerud Porsborg\*, Anders Poulsen Charmouh\*, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**, BioRxiv [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1){:target="_blank"}
 
+<h2 id="bookchaps">
+</h2>
 
 ### Book Chapters:
 
