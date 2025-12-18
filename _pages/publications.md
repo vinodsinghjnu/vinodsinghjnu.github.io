@@ -12,6 +12,8 @@ title: "Publications"
 Note: \* Represents equal authorship
 
 ### Working Papers:
+
+1. 
    
    1. Peter Soerud Porsborg\*, Anders Poulsen Charmouh\*, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Kristian Almstrup, Søren Besenbacher, Mikkel Heide Schierup, **"Insights into gene conversion and crossing-over processes from long-read sequencing of human, chimpanzee and gorilla testes and sperm"**,  *Nature* (Under Revision) [Preprint link](https://www.biorxiv.org/content/10.1101/2024.07.05.601967v1){:target="_blank"}
 
@@ -21,6 +23,9 @@ Note: \* Represents equal authorship
 </h2>
 
 ### Peer-Reviewed Publications:
+
+   1. Peter Soerud Porsborg, Anders Poulsen Charmouh, **Vinod Kumar Singh**, Sofia Boeg Winge, Christina Hvilsom, Carmen Oroperv, Lasse Thorup Hansen, Juliana Andrea Berner, Marta Pelizzola, Sandra Laurentino, Nina Neuhaus, Asger Hobolth, Thomas Bataillon, Søren Besenbacher, Kristian Almstrup, Mikkel Heide Schierup (2015) **"Long-read sequencing of primate testis and human sperm allows identification of recombination events in individuals"**, *Nature Communications*
+   
    1. Kerryn Elliott, **Vinod Kumar Singh**, Alan Bäckerholm, Linnea Ögren, Katarzyna Soczek, Tom Luijts, Jimmy Van den Eynden, Jennifer Doudn, Anders Ståhlberg, Markus Lindberg, Emily Hoberg, Maria Falkenberg, Erik Larsson (2024) **"Mechanistic basis of atypical TERT promoter mutations"**, *Nature Communications*
 
    1. Satheesh K. Sengodan, Xiaoju Hu, Vaishnavi Peddibhotla, Kuppusamy Balamurugan, Alexander Y. Mitrophanov, Lois McKennett, Suhas S. Kharat, Rahul Sanawar, **Vinod Kumar Singh**, Mary E. Albaugh, Sandra S. Burkett, Yongmei Zhao, Bao Tran, Tyler Malys, Esta Sterneck, Subhajyoti De, and Shyam K. Sharan (2024) **"MLH1 Mitigates Replicative Stress and Promotes Viability of BRCA2-deficient cells"**, *Journal of Clinical Investigation*, American Society for Clinical Investigation [PDF](/files/JournalOfClinalInvestigation.pdf){:target="_blank"}
