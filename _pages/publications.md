@@ -13,7 +13,7 @@ Note: \* Represents equal authorship
 
 ### Working Papers:
 
-1.   Vinod Kumar Singh, Peter Sørud Porsborg, Carmen Oroperv, Asger Hobolth, Kristian Almstrup, Thomas Bataillon, Mikkel Heide Schierup, Søren Besenbacher, DNA Methylation-based cell type classification at single-read level
+1.   **Vinod Kumar Singh**, Peter Sørud Porsborg, Carmen Oroperv, Asger Hobolth, Kristian Almstrup, Thomas Bataillon, Mikkel Heide Schierup, Søren Besenbacher, **"DNA Methylation-based cell type classification at single-read level"**
 2.   The role of Heparan sulfate glycotypes in determining of stem cell heterogeneity and function
 
 
