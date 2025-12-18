@@ -13,6 +13,8 @@ Note: \* Represents equal authorship
 
 ### Working Papers:
 
+1.   DNA Methylation-based cell type classification at single-read level
+2.   The role of Heparan sulfate glycotypes in determining of stem cell heterogeneity and function
 
 
 
